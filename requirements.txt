@@ -1,0 +1,16 @@
+django==4.2.7
+django-dramatiq==0.11.6
+python-binance==1.0.22
+python-telegram-bot==21.7
+web3==7.5.0
+redis==5.0.1
+psycopg2-binary==2.9.9
+gunicorn==21.2.0
+periodiq==0.13.0
+python-binance==1.0.22
+djangorestframework==3.15.2
+apscheduler==3.10.4
+dj-database-url==2.3.0
+pandas==2.2.3
+bscscan-python==2.0.0
+pythonpancakes==1.0.1
